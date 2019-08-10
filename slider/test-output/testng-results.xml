@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-08-10T15:43:34Z" name="Default suite" finished-at="2019-08-10T15:43:34Z" duration-ms="55">
+    <groups>
+    </groups>
+    <test started-at="2019-08-10T15:43:34Z" name="Default test" finished-at="2019-08-10T15:43:34Z" duration-ms="55">
+      <class name="slider.slider.slider">
+        <test-method signature="slider1()[pri:0, instance:slider.slider.slider@157632c9]" started-at="2019-08-10T21:13:34Z" name="slider1" finished-at="2019-08-10T21:13:34Z" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- slider1 -->
+      </class> <!-- slider.slider.slider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
